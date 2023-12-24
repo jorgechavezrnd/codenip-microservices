@@ -7,14 +7,18 @@
         "php": ">=7.2.5",
         "ext-ctype": "*",
         "ext-iconv": "*",
+        "doctrine/orm": "^2.17",
+        "symfony/amqp-messenger": "5.4.*",
         "symfony/console": "5.4.*",
         "symfony/dotenv": "5.4.*",
         "symfony/flex": "^1.17|^2",
         "symfony/framework-bundle": "5.4.*",
+        "symfony/monolog-bundle": "^3.10",
+        "symfony/property-access": "5.4.*",
         "symfony/runtime": "5.4.*",
+        "symfony/serializer": "5.4.*",
+        "symfony/validator": "5.4.*",
         "symfony/yaml": "5.4.*"
-    },
-    "require-dev": {
     },
     "config": {
         "allow-plugins": {
