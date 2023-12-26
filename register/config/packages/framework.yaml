@@ -16,5 +16,5 @@ framework:
     php_errors:
         log: true
 
-    validations:
+    validation:
         enabled: true
